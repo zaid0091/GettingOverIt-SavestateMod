@@ -33,9 +33,6 @@ Practice difficult sections (The Chimney, The Orange, Devil's Chimney, The Anvil
 2. Extract all contents into your *Getting Over It* directory (where `GettingOverIt.exe` is located).
 3. Start the game normally.
 
-### Method 2: Plugin-Only (For existing BepInEx users)
-1. Download **`SavestateMod-v1.0.0-PluginOnly.zip`**.
-2. Drop `SavestateMod.dll` into your `BepInEx/plugins/` directory.
 
 ---
 
